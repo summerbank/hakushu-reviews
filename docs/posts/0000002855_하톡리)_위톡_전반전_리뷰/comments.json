@@ -1,0 +1,30 @@
+[
+  {
+    "number": "23716",
+    "parent": "2855",
+    "reply_to": "",
+    "depth": 0,
+    "author": "수러접",
+    "author_uid": "govern1895",
+    "author_ip": "",
+    "date": "06.14 20:41:14",
+    "deleted": false,
+    "memo_html": "고마가타케 30년은 좀 궁금하네 라메종 5년이 ㅈㄴ 임팩트좋았는데",
+    "memo_text": "고마가타케 30년은 좀 궁금하네 라메종 5년이 ㅈㄴ 임팩트좋았는데",
+    "image_count": 0
+  },
+  {
+    "number": "23717",
+    "parent": "2855",
+    "reply_to": "23716",
+    "depth": 1,
+    "author": "하쿠슈게이게이¡",
+    "author_uid": "dlalswo222",
+    "author_ip": "",
+    "date": "06.14 20:42:40",
+    "deleted": false,
+    "memo_html": "마쉿음",
+    "memo_text": "마쉿음",
+    "image_count": 0
+  }
+]

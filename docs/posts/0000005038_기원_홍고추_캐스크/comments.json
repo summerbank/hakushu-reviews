@@ -1,0 +1,44 @@
+[
+  {
+    "number": "43363",
+    "parent": "5038",
+    "reply_to": "",
+    "depth": 0,
+    "author": "HighCost",
+    "author_uid": "teens3972",
+    "author_ip": "",
+    "date": "08.05 14:43:59",
+    "deleted": false,
+    "memo_html": "마신 사진이 없자나",
+    "memo_text": "마신 사진이 없자나",
+    "image_count": 0
+  },
+  {
+    "number": "43364",
+    "parent": "5038",
+    "reply_to": "43363",
+    "depth": 1,
+    "author": "유과먹는거미",
+    "author_uid": "buyer6972",
+    "author_ip": "",
+    "date": "08.05 14:44:36",
+    "deleted": false,
+    "memo_html": "아 그러네 ㅋㅎㅋㅎㅎㅋㅎ 수정해야겠다 ㄳㄳ",
+    "memo_text": "아 그러네 ㅋㅎㅋㅎㅎㅋㅎ 수정해야겠다 ㄳㄳ",
+    "image_count": 0
+  },
+  {
+    "number": "43365",
+    "parent": "5038",
+    "reply_to": "43363",
+    "depth": 1,
+    "author": "유과먹는거미",
+    "author_uid": "buyer6972",
+    "author_ip": "",
+    "date": "08.05 14:48:33",
+    "deleted": false,
+    "memo_html": "<a href=\"#\" class=\"mention deco\" rel=\"noopener noreferrer\">@유과먹는거미</a> <img class=\"written_dccon \" src=\"./assets/comments/43365_001_42fdc6f82e.png\" conalt=\"고마워\" alt=\"고마워\" title=\"고마워\" data-dcconoverstatus=\"false\">",
+    "memo_text": "@유과먹는거미",
+    "image_count": 1
+  }
+]

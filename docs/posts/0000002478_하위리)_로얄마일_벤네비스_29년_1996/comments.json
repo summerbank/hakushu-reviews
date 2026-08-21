@@ -1,0 +1,58 @@
+[
+  {
+    "number": "20541",
+    "parent": "2478",
+    "reply_to": "",
+    "depth": 0,
+    "author": "하쿠슈게이게이¡",
+    "author_uid": "dlalswo222",
+    "author_ip": "",
+    "date": "06.04 15:08:08",
+    "deleted": false,
+    "memo_html": "개고수엿네",
+    "memo_text": "개고수엿네",
+    "image_count": 0
+  },
+  {
+    "number": "20542",
+    "parent": "2478",
+    "reply_to": "20541",
+    "depth": 1,
+    "author": "피트충",
+    "author_uid": "as1219lsm",
+    "author_ip": "",
+    "date": "06.04 15:08:24",
+    "deleted": false,
+    "memo_html": "<img class=\"written_dccon \" src=\"./assets/comments/20542_001_eec1af1e98.png\" conalt=\"7\" alt=\"7\" title=\"7\" data-dcconoverstatus=\"false\">",
+    "memo_text": "",
+    "image_count": 1
+  },
+  {
+    "number": "20562",
+    "parent": "2478",
+    "reply_to": "",
+    "depth": 0,
+    "author": "치카왕",
+    "author_uid": "carry1853",
+    "author_ip": "",
+    "date": "06.04 16:30:12",
+    "deleted": false,
+    "memo_html": "유산취 시져시져 - dc App",
+    "memo_text": "유산취 시져시져 - dc App",
+    "image_count": 0
+  },
+  {
+    "number": "21381",
+    "parent": "2478",
+    "reply_to": "20562",
+    "depth": 1,
+    "author": "피트충",
+    "author_uid": "as1219lsm",
+    "author_ip": "",
+    "date": "06.08 15:41:01",
+    "deleted": false,
+    "memo_html": "엄니가 주는대로 머거",
+    "memo_text": "엄니가 주는대로 머거",
+    "image_count": 0
+  }
+]

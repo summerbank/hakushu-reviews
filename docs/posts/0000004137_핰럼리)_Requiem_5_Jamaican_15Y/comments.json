@@ -1,0 +1,58 @@
+[
+  {
+    "number": "35919",
+    "parent": "4137",
+    "reply_to": "",
+    "depth": 0,
+    "author": "하쿠슈게이게이¡",
+    "author_uid": "dlalswo222",
+    "author_ip": "",
+    "date": "07.04 20:48:58",
+    "deleted": false,
+    "memo_html": "오 맛있겠다",
+    "memo_text": "오 맛있겠다",
+    "image_count": 0
+  },
+  {
+    "number": "35926",
+    "parent": "4137",
+    "reply_to": "35919",
+    "depth": 1,
+    "author": "치카왕",
+    "author_uid": "carry1853",
+    "author_ip": "",
+    "date": "07.04 21:30:26",
+    "deleted": false,
+    "memo_html": "밸런스가 좋은 럼인대 제가 럼에서 기대하는맛은 아니었음",
+    "memo_text": "밸런스가 좋은 럼인대 제가 럼에서 기대하는맛은 아니었음",
+    "image_count": 0
+  },
+  {
+    "number": "35927",
+    "parent": "4137",
+    "reply_to": "35919",
+    "depth": 1,
+    "author": "하쿠슈게이게이¡",
+    "author_uid": "dlalswo222",
+    "author_ip": "",
+    "date": "07.04 21:41:20",
+    "deleted": false,
+    "memo_html": "<a href=\"#\" class=\"mention\" rel=\"noopener noreferrer\">@치카왕</a> 너무 깔끔햇나 보네",
+    "memo_text": "@치카왕 너무 깔끔햇나 보네",
+    "image_count": 0
+  },
+  {
+    "number": "35928",
+    "parent": "4137",
+    "reply_to": "35919",
+    "depth": 1,
+    "author": "치카왕",
+    "author_uid": "carry1853",
+    "author_ip": "",
+    "date": "07.04 22:01:21",
+    "deleted": false,
+    "memo_html": "<a href=\"#\" class=\"mention\" rel=\"noopener noreferrer\">@하쿠슈게이게이¡</a> 그래서 럼많이 드신분들이 더 조아하실듯",
+    "memo_text": "@하쿠슈게이게이¡ 그래서 럼많이 드신분들이 더 조아하실듯",
+    "image_count": 0
+  }
+]

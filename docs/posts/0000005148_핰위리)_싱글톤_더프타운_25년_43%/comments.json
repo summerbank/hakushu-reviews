@@ -1,0 +1,58 @@
+[
+  {
+    "number": "44377",
+    "parent": "5148",
+    "reply_to": "",
+    "depth": 0,
+    "author": "유과먹는거미",
+    "author_uid": "buyer6972",
+    "author_ip": "",
+    "date": "08.09 21:37:44",
+    "deleted": false,
+    "memo_html": "씁 21년 대비 레몬이 빠지고 불량식품? 스러운 게 늘었네 그래서 21년이 25년보다 좋다구 했구만 ㄼㅊ!",
+    "memo_text": "씁 21년 대비 레몬이 빠지고 불량식품? 스러운 게 늘었네 그래서 21년이 25년보다 좋다구 했구만 ㄼㅊ!",
+    "image_count": 0
+  },
+  {
+    "number": "44379",
+    "parent": "5148",
+    "reply_to": "44377",
+    "depth": 1,
+    "author": "HighCost",
+    "author_uid": "teens3972",
+    "author_ip": "",
+    "date": "08.09 21:39:40",
+    "deleted": false,
+    "memo_html": "더프타운은 역시 cod지",
+    "memo_text": "더프타운은 역시 cod지",
+    "image_count": 0
+  },
+  {
+    "number": "44418",
+    "parent": "5148",
+    "reply_to": "44377",
+    "depth": 1,
+    "author": "Hebi.Peated",
+    "author_uid": "custom5158",
+    "author_ip": "",
+    "date": "08.10 08:44:38",
+    "deleted": false,
+    "memo_html": "<a href=\"#\" class=\"mention\" rel=\"noopener noreferrer\">@HighCost</a> 개부자네  - dc App",
+    "memo_text": "@HighCost 개부자네 - dc App",
+    "image_count": 0
+  },
+  {
+    "number": "44422",
+    "parent": "5148",
+    "reply_to": "44377",
+    "depth": 1,
+    "author": "유과먹는거미",
+    "author_uid": "buyer6972",
+    "author_ip": "",
+    "date": "08.10 08:46:51",
+    "deleted": false,
+    "memo_html": "<a href=\"#\" class=\"mention\" rel=\"noopener noreferrer\">@Hebi.Peated</a> ㄹㅇ요 하 나 같은 서민은 뭐 마시고 사냐",
+    "memo_text": "@Hebi.Peated ㄹㅇ요 하 나 같은 서민은 뭐 마시고 사냐",
+    "image_count": 0
+  }
+]

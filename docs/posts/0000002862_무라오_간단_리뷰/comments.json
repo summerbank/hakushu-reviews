@@ -1,0 +1,30 @@
+[
+  {
+    "number": "23719",
+    "parent": "2862",
+    "reply_to": "",
+    "depth": 0,
+    "author": "HighCost",
+    "author_uid": "teens3972",
+    "author_ip": "",
+    "date": "06.14 20:54:31",
+    "deleted": false,
+    "memo_html": "마쉿겠다",
+    "memo_text": "마쉿겠다",
+    "image_count": 0
+  },
+  {
+    "number": "23722",
+    "parent": "2862",
+    "reply_to": "",
+    "depth": 0,
+    "author": "조선탈리스커",
+    "author_uid": "declare9187",
+    "author_ip": "",
+    "date": "06.14 21:06:17",
+    "deleted": false,
+    "memo_html": "어흐",
+    "memo_text": "어흐",
+    "image_count": 0
+  }
+]

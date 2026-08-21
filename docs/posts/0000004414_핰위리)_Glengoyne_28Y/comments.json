@@ -1,0 +1,58 @@
+[
+  {
+    "number": "38102",
+    "parent": "4414",
+    "reply_to": "",
+    "depth": 0,
+    "author": "HighCost",
+    "author_uid": "teens3972",
+    "author_ip": "",
+    "date": "07.12 18:56:00",
+    "deleted": false,
+    "memo_html": "나도 줘요",
+    "memo_text": "나도 줘요",
+    "image_count": 0
+  },
+  {
+    "number": "38106",
+    "parent": "4414",
+    "reply_to": "38102",
+    "depth": 1,
+    "author": "치카왕",
+    "author_uid": "carry1853",
+    "author_ip": "",
+    "date": "07.12 19:11:03",
+    "deleted": false,
+    "memo_html": "나눔거지에요",
+    "memo_text": "나눔거지에요",
+    "image_count": 0
+  },
+  {
+    "number": "38107",
+    "parent": "4414",
+    "reply_to": "38102",
+    "depth": 1,
+    "author": "HighCost",
+    "author_uid": "teens3972",
+    "author_ip": "",
+    "date": "07.12 19:11:19",
+    "deleted": false,
+    "memo_html": "<a href=\"#\" class=\"mention deco\" rel=\"noopener noreferrer\">@치카왕</a> <img class=\"written_dccon bigdccon\" src=\"./assets/comments/38107_001_4ba22e4df3.png\" conalt=\"8\" alt=\"8\" title=\"8\" data-dcconoverstatus=\"false\">",
+    "memo_text": "@치카왕",
+    "image_count": 1
+  },
+  {
+    "number": "38113",
+    "parent": "4414",
+    "reply_to": "",
+    "depth": 0,
+    "author": "유과먹는거미",
+    "author_uid": "buyer6972",
+    "author_ip": "",
+    "date": "07.12 19:47:14",
+    "deleted": false,
+    "memo_html": "위스키에서 란시오가 느껴지네? 신기하다 ㄼㅊ",
+    "memo_text": "위스키에서 란시오가 느껴지네? 신기하다 ㄼㅊ",
+    "image_count": 0
+  }
+]

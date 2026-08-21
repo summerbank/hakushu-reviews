@@ -1,0 +1,58 @@
+[
+  {
+    "number": "38808",
+    "parent": "4534",
+    "reply_to": "",
+    "depth": 0,
+    "author": "수러접",
+    "author_uid": "govern1895",
+    "author_ip": "",
+    "date": "07.16 10:06:51",
+    "deleted": false,
+    "memo_html": "인싸 부자신가봐요",
+    "memo_text": "인싸 부자신가봐요",
+    "image_count": 0
+  },
+  {
+    "number": "38813",
+    "parent": "4534",
+    "reply_to": "",
+    "depth": 0,
+    "author": "다이노소워",
+    "author_uid": "dinosaur6478",
+    "author_ip": "",
+    "date": "07.16 10:18:58",
+    "deleted": true,
+    "memo_html": "(삭제된 댓글입니다.)",
+    "memo_text": "(삭제된 댓글입니다.)",
+    "image_count": 0
+  },
+  {
+    "number": "38815",
+    "parent": "4534",
+    "reply_to": "38813",
+    "depth": 1,
+    "author": "하쿠슈게이게이¡",
+    "author_uid": "dlalswo222",
+    "author_ip": "",
+    "date": "07.16 10:26:03",
+    "deleted": false,
+    "memo_html": "스모키라고 다 피트는 아니긴해유",
+    "memo_text": "스모키라고 다 피트는 아니긴해유",
+    "image_count": 0
+  },
+  {
+    "number": "38817",
+    "parent": "4534",
+    "reply_to": "",
+    "depth": 0,
+    "author": "조선탈리스커",
+    "author_uid": "declare9187",
+    "author_ip": "",
+    "date": "07.16 11:02:21",
+    "deleted": false,
+    "memo_html": "ㄹㅇ 지리는것만 먹네 맨날",
+    "memo_text": "ㄹㅇ 지리는것만 먹네 맨날",
+    "image_count": 0
+  }
+]

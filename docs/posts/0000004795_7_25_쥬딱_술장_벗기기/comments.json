@@ -1,0 +1,44 @@
+[
+  {
+    "number": "41003",
+    "parent": "4795",
+    "reply_to": "",
+    "depth": 0,
+    "author": "ㅇㅇ",
+    "author_uid": "compel4612",
+    "author_ip": "",
+    "date": "07.26 08:29:06",
+    "deleted": true,
+    "memo_html": "(삭제된 댓글입니다.)",
+    "memo_text": "(삭제된 댓글입니다.)",
+    "image_count": 0
+  },
+  {
+    "number": "41004",
+    "parent": "4795",
+    "reply_to": "",
+    "depth": 0,
+    "author": "어래곤장",
+    "author_uid": "325oh",
+    "author_ip": "",
+    "date": "07.26 08:42:10",
+    "deleted": false,
+    "memo_html": "<img class=\"written_dccon \" src=\"./assets/comments/41004_001_3c1f9fc916.png\" conalt=\"13\" alt=\"13\" title=\"13\" data-dcconoverstatus=\"false\">",
+    "memo_text": "",
+    "image_count": 1
+  },
+  {
+    "number": "41005",
+    "parent": "4795",
+    "reply_to": "",
+    "depth": 0,
+    "author": "유과먹는거미",
+    "author_uid": "buyer6972",
+    "author_ip": "",
+    "date": "07.26 08:48:56",
+    "deleted": false,
+    "memo_html": "<video class=\"written_dccon \" autoplay loop muted playsinline data-src=\"https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658e820775f41d8d0ca6079a0800f01ce0219382a3cf6132645765fdc52e2cd0a6b31afbcfafc561f7ad6c653c52e94a749371df8b582bba93bcf\" conalt=\"낼름\" alt=\"낼름\" title=\"낼름\" style=\"max-width:100%;\"><source src=\"https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658e820775f41d8d0ca6079a0800f01ce0219382a3cf6132645765fdc52e2cd0a6b31afbcfafc561f7ad6c653c52e94a749371df8b582bba93bcfb1ce0a5d\" type=\"video/mp4\"></source></video>",
+    "memo_text": "",
+    "image_count": 0
+  }
+]

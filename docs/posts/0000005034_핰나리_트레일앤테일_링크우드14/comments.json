@@ -1,0 +1,72 @@
+[
+  {
+    "number": "43282",
+    "parent": "5034",
+    "reply_to": "",
+    "depth": 0,
+    "author": "유과먹는거미",
+    "author_uid": "buyer6972",
+    "author_ip": "",
+    "date": "08.05 05:23:03",
+    "deleted": false,
+    "memo_html": "<video class=\"written_dccon \" autoplay loop muted playsinline data-src=\"https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658e820775f41d8d0ca6079a0800f01ce0219382a3cf6132645765fdc52e2cd0a6b31afbcfafc561f7ad6c653c52e94a749371df8b582bba93bcf\" conalt=\"낼름\" alt=\"낼름\" title=\"낼름\" style=\"max-width:100%;\"><source src=\"https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658e820775f41d8d0ca6079a0800f01ce0219382a3cf6132645765fdc52e2cd0a6b31afbcfafc561f7ad6c653c52e94a749371df8b582bba93bcfb1ce0a5d\" type=\"video/mp4\"></source></video>",
+    "memo_text": "",
+    "image_count": 0
+  },
+  {
+    "number": "43283",
+    "parent": "5034",
+    "reply_to": "43282",
+    "depth": 1,
+    "author": "cruel",
+    "author_uid": "tmink72",
+    "author_ip": "",
+    "date": "08.05 05:23:17",
+    "deleted": false,
+    "memo_html": "진짜 다돌아댱기네 - dc App",
+    "memo_text": "진짜 다돌아댱기네 - dc App",
+    "image_count": 0
+  },
+  {
+    "number": "43284",
+    "parent": "5034",
+    "reply_to": "43282",
+    "depth": 1,
+    "author": "유과먹는거미",
+    "author_uid": "buyer6972",
+    "author_ip": "",
+    "date": "08.05 05:23:57",
+    "deleted": false,
+    "memo_html": "<a href=\"#\" class=\"mention deco\" rel=\"noopener noreferrer\">@cruel</a> <video class=\"written_dccon \" autoplay loop muted playsinline data-src=\"https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658e820775f41d8d0ca6079a0800f01ce0219382a3cf6132645765fdc52e2cd0a6b31afbcfafc561f7ad6c653c52e94a749371df8b584bba93bcf\" conalt=\"끄덕\" alt=\"끄덕\" title=\"끄덕\" style=\"max-width:100%;\"><source src=\"https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658e820775f41d8d0ca6079a0800f01ce0219382a3cf6132645765fdc52e2cd0a6b31afbcfafc561f7ad6c653c52e94a749371df8b584bba93bcfb1ce0a5d\" type=\"video/mp4\"></source></video>",
+    "memo_text": "@cruel",
+    "image_count": 0
+  },
+  {
+    "number": "43300",
+    "parent": "5034",
+    "reply_to": "",
+    "depth": 0,
+    "author": "Hebi.Peated",
+    "author_uid": "custom5158",
+    "author_ip": "",
+    "date": "08.05 09:16:51",
+    "deleted": false,
+    "memo_html": "<video class=\"written_dccon \" autoplay loop muted playsinline data-src=\"https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658e92279c0e0e88bbbcbb5dc2696d309fb730f0c9a0872f3a4985fe22c56c6069e1ee43aaadb84f575ba64b13b90faf604a834f4dff80d02dbff00\" conalt=\"7\" alt=\"7\" title=\"7\" style=\"max-width:100%;\"><source src=\"https://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b658e92279c0e0e88bbbcbb5dc2696d309fb730f0c9a0872f3a4985fe22c56c6069e1ee43aaadb84f575ba64b13b90faf604a834f4dff80d02dbff0053ebd03b\" type=\"video/mp4\"></source></video>",
+    "memo_text": "",
+    "image_count": 0
+  },
+  {
+    "number": "43301",
+    "parent": "5034",
+    "reply_to": "43300",
+    "depth": 1,
+    "author": "cruel",
+    "author_uid": "tmink72",
+    "author_ip": "",
+    "date": "08.05 09:17:01",
+    "deleted": false,
+    "memo_html": "넵 - dc App",
+    "memo_text": "넵 - dc App",
+    "image_count": 0
+  }
+]
